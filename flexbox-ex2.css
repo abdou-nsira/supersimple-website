@@ -1,0 +1,41 @@
+.ajout-ami{
+  display: flex;
+  flex-direction: row;
+}
+.profile-identif{
+ display: flex;
+ flex-direction: row;
+  margin-right: 100px;
+  justify-content: center;
+}
+.cat-image{
+ 
+}
+
+.paragraph{
+
+}
+.butt{
+  margin-top: 60px;
+
+}
+.button{
+cursor: pointer;
+background-color: blue;
+color: white;
+border: none;
+border-radius: 7px;
+font-size: 20px;
+text-align: center;
+vertical-align: 30px;
+
+}
+.name{
+font-weight: bold;
+font-family: arial;
+text-align: top;
+}
+.imag{
+border-radius: 20px;
+object-position: center ;
+}
